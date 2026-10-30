@@ -1,3 +1,11 @@
+> **已迁移 / Migrated · 2026-10-30**
+>
+> 本仓库仅作为历史归档保留。后续开发、问题报告和安装说明请前往统一主仓 [sim-cli](https://github.com/ww123cqrt-prog/sim-cli)。COMSOL 驱动及配套技能位于 [`plugins/comsol`](https://github.com/ww123cqrt-prog/sim-cli/tree/main/plugins/comsol)。下方保留迁移前的文档，仅供历史参考。
+>
+> This repository is retained as a historical archive. Development, issue reports, and current installation instructions have moved to [sim-cli](https://github.com/ww123cqrt-prog/sim-cli). The COMSOL driver and bundled skill are maintained under [`plugins/comsol`](https://github.com/ww123cqrt-prog/sim-cli/tree/main/plugins/comsol). The documentation below is retained for historical reference.
+
+---
+
 # sim-plugin-comsol
 
 Use Codex, Claude Code, or another AI agent to work with
